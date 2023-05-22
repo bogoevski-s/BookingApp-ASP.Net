@@ -1,0 +1,17 @@
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.csproj.AssemblyReference.cache
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.AssemblyInfoInputs.cache
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.AssemblyInfo.cs
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\bin\Debug\net6.0\Booking.DataAccess.deps.json
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\bin\Debug\net6.0\Booking.DataAccess.dll
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\bin\Debug\net6.0\Booking.DataAccess.pdb
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\bin\Debug\net6.0\Booking.DataModels.dll
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\bin\Debug\net6.0\Booking.DataModels.pdb
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.csproj.CopyComplete
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.dll
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\obj\Debug\net6.0\refint\Booking.DataAccess.dll
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.pdb
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\obj\Debug\net6.0\ref\Booking.DataAccess.dll
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\bin\Debug\net6.0\Booking.DataAccess.runtimeconfig.json
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.DataAccess\obj\Debug\net6.0\Booking.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.Models\bin\Debug\net6.0\Booking.Models.deps.json
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.Models\bin\Debug\net6.0\Booking.Models.dll
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.Models\bin\Debug\net6.0\Booking.Models.pdb
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.Models\obj\Debug\net6.0\Booking.Models.csproj.AssemblyReference.cache
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.Models\obj\Debug\net6.0\Booking.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.Models\obj\Debug\net6.0\Booking.Models.AssemblyInfoInputs.cache
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.Models\obj\Debug\net6.0\Booking.Models.AssemblyInfo.cs
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.Models\obj\Debug\net6.0\Booking.Models.csproj.CoreCompileInputs.cache
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.Models\obj\Debug\net6.0\Booking.Models.dll
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.Models\obj\Debug\net6.0\refint\Booking.Models.dll
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.Models\obj\Debug\net6.0\Booking.Models.pdb
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.Models\obj\Debug\net6.0\ref\Booking.Models.dll
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.Models\bin\Debug\net6.0\Booking.DataModels.dll
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.Models\bin\Debug\net6.0\Booking.DataModels.pdb
+C:\Users\slave\OneDrive\Desktop\Booking App .Net\BookingApp\Booking.Models\obj\Debug\net6.0\Booking.Models.csproj.CopyComplete
